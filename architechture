@@ -1,1 +1,22 @@
+User Health Data
+(Age, Sleep, Diet, Activity, Reports)
 
+            ↓
+
+Data Processing Layer
+
+            ↓
+
+Digital Twin Engine
+
+            ↓
+
+AI Risk Prediction Model
+
+            ↓
+
+Recommendation Engine
+
+            ↓
+
+Interactive Health Dashboard
